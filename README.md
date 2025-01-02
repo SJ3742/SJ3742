@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=causj)](https://solved.ac/causj)
 
 
-Current Side Projects
+-Current Side Projects
 https://github.com/SJ3742/cardGenerator
-Contribute 
+
+-Contribute 
 https://github.com/nOOne-is-hier/STM-Genie
