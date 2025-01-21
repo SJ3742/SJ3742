@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=causj)](https://solved.ac/causj)
+Language : Java, C, C++, Python
+UE5, Spring boot, vue.js
 
 
 -Current Side Projects
