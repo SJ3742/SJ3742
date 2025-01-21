@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=causj)](https://solved.ac/causj)
--Language : Java, C, C++, Python
+<p>-Language : Java, C, C++, Python</p>
 - **UE5**, Spring boot, vue.js,MySQL
 
 
