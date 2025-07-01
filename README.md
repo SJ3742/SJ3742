@@ -26,5 +26,6 @@ https://github.com/SJ3742/cardGenerator
 https://github.com/nOOne-is-hier/STM-Genie
 
 -Experience
-SSAFY(2024.07~2025.01) - Certificated 
-UE Engineer (2025.01~)
+● SSAFY(2024.07~2025.01) - Certificated 
+
+● UE Engineer (2025.01~)
