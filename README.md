@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 <p>-Language : Java, C, C++, Python</p>
 - **UE5**, Spring boot, vue.js,MySQL
 
-
--Current Side Projects
-https://github.com/SJ3742/cardGenerator
-
 -Contribute 
 https://github.com/nOOne-is-hier/STM-Genie
 
